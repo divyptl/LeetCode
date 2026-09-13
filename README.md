@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyptl/LeetCode/tree/master/0015-3sum) |
+| [0835-image-overlap](https://github.com/divyptl/LeetCode/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divyptl/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/divyptl/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/divyptl/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/divyptl/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyptl/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
